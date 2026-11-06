@@ -1,0 +1,1 @@
+# class-std-and-crete-multiple-obj
